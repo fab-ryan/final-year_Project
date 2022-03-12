@@ -5,11 +5,11 @@
 
 ## Prerequisite 
 To Install this project in your pc, they are tools needed to be filled those are
--node js
--composer that will install packages and libraries
--yarn if its possible
--xampp or lampp
--code editor 
+        -node js
+        -composer that will install packages and libraries      
+        -yarn if its possible
+        -xampp or lampp
+        -code editor 
 
 
 ## Installation And Running
@@ -30,7 +30,7 @@ To Install this project in your pc, they are tools needed to be filled those are
 5. **php artisan  migrate:refresh --seed**
 6. After You can Log into  system by using
 7. email for Admin or academic  is: *admin@admin.com** and password is: **password**
-8. email for HOD is **royalfabrice1234@gmail.com** and password is : **123456789**
+8. email for HOD is **royalfabrice1234@gmail.com** and password is : **password**
 9. after You can register and student then admin must make a dicision to give him/her loan by approving the status then once student loans in again find out the status has changed 
 ## Files 
 ### MiddleWares
