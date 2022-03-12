@@ -4,7 +4,7 @@
                                     ACADEMIC TEACHING TIMETABLE SYSTEM(ATTS)
 
 ## Prerequisite 
-To Install this project in your pc, they are tools needed to be filled those are
+### To Install this project in your pc, they are tools needed to be filled those are
         -node js
         -composer that will install packages and libraries      
         -yarn if its possible
